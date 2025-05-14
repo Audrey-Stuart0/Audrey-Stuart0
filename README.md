@@ -1,7 +1,7 @@
 <a name="top"></a>
 <hr>
 
-## Hello! Welcome to my GitHub, feel free to explore my projects!:
+## Hello! Welcome to my GitHub, feel free to explore my projects! :
 <a href="#education">Go to Education</a> | 
 <a href="#Projects">Go to Projects</a> | 
 <a href="#profExp">Go to Jobs and Internships</a> | 
