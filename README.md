@@ -26,6 +26,9 @@ I'm a fourth-year Business Analytics and Psychology student at the University of
   <li><b>Sepic Family Scholarship: Given for academic achievement</li>
 </ul>
 
+**Relevant Courses: Automating Business Processes, Foundations of Information Mgmt, Data Mining and Visualization, Project Mgmt and Simulation, Datawarehousing and Business Intelligence, Optimization Modeling, Applied Nonparametric Statistics, Sports Analytics, Complex Data Analytics**
+
+
 <!--➡️ **For more details, see my coursework and achievements:**  
 a href="https://github.com/MouyseangAn/Education/tree/main" target="_blank">Education Details</a>-->
 
