@@ -37,7 +37,8 @@ a href="https://github.com/MouyseangAn/Education/tree/main" target="_blank">Educ
 <ul>
   <li><a href="https://github.com/Audrey-Stuart0/Optimization-Project/tree/main">Project 1: Fantasy Football Team Selection Optimization</a></li>
   <li><a href="https://github.com/Audrey-Stuart0/Text-Analysis-Project">Project 2: Text Analysis</a></li>
-  <li><a href="https://github.com/Audrey-Stuart0/Housing-PBI-Dashboard/tree/main">Project 3: Housing Vacancies</a></li>
+  <li><a href="https://github.com/Audrey-Stuart0/Housing-PBI-Dashboard/tree/main">Project 3: Housing Vacancies Dashboard</a></li>
+  <li><a href="https://github.com/Audrey-Stuart0/Jewelry-Data-Warehouse-Project">Project 4: Data Warehouse Creation</li>
 
 </ul>
 
