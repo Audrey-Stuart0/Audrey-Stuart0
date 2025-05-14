@@ -17,7 +17,6 @@ I'm a fourth-year Business Analytics and Psychology student at the University of
 ### University of Denver, Daniels College of Business  
 **Bachelor of Science – Business Information and Analytics**  
 *Major GPA: 3.92*  
-*Minor: Psychology*  
 *Expected Graduation: June 2025*  
 
 <ul>
