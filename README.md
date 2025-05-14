@@ -63,7 +63,7 @@ a href="https://github.com/MouyseangAn/Education/tree/main" target="_blank">Educ
         <li>SQL</li>
         <li>R</li>
         <li>Python</li>
-        <li>SAP</li>
+        <li>SAP Analytics Cloud</li>
         <li>Power BI</li>
         <li>Matillion</li>
         <li>Snowflake</li>
